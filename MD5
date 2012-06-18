@@ -1,0 +1,10 @@
+6d03dd6195271390f5cc8e8843b02dea *DESCRIPTION
+499ef1e78680b4c2ce1ea6c780bce456 *NAMESPACE
+441591e6adc19b50e17214fd4cf146b2 *R/1_cr_classes.R
+9871bdc78b938aa064896b0c95ec9bdd *R/2_cr_methods.R
+a3ef88a8369bd2a2596b928f336a45c0 *R/3_cr_functions.R
+4afe487516c6caec3eb06d44a7514536 *man/CR-package.Rd
+d19cc07551959cbc1d58c3ba5f67c967 *man/CureRate-class.Rd
+d343f849d911a1995ab193ba211e32e3 *man/curerate.Rd
+eabdd9349938f7095c420b75db5cc3ab *man/show-methods.Rd
+73c11ecf286a034ece3cec0ce0430573 *man/showcr.Rd
